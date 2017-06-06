@@ -2,3 +2,48 @@ body{
     color:#ffffff;
     font-family:Arial,verdana,sans-serif;
 }
+
+
+    .table{
+    background:#000000;
+}
+.white{
+    background:#000000;
+    color:#ffffff;
+    width: 50px;
+    height: 50px;
+    
+}
+.cyan{
+    background:#00b6bc;
+}
+.teal{
+    background:#329090;
+}
+.blue{
+    background:#1b67c9;
+}
+.light-purple{
+    background:#a166a0;
+}
+.amber{
+    background:#f5b659;
+}
+.green{
+    background:#59cf6e;
+}
+.orange{
+    background:#f36d4a;
+}
+.red{
+    background:#f53951;
+}
+.indigo{
+    background:#004e75; 
+}
+.grey{
+    background:rgb(133,153,152); 
+}
+.dark-purple{
+    background:rgb(87,46,86); 
+}
